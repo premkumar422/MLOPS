@@ -1,0 +1,25 @@
+
+Life cycle of a DS project
+1)data preparation
+2)exploratory data analysis (Analyze data, statistical test)
+3)feature engineering (handling missing values, categorical encoding , checking balance of data)
+4)Model training
+5)Model Validation
+6)Deployment
+7)Monitoring
+
+Q1) Datascientist leverage for Mlflow.
+   --->Experiment tracking and hypothesis testing 
+   --->Code structuring
+   --->Model packaging and dependency management
+   --->Evaluating hyperparameter tuning
+
+For prompt engineering also we can track performance for each prompt.
+
+Usecases:
+1)Experiment Tracking. -->Track parameters and metrics
+2)Model Selection and Deployment -->Using UI we can select best Model
+3)Model Performance monitoring.
+4)Colloborative Project.
+
+To start mlflow server ---->mlflow ui
